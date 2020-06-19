@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DeteC</string>
+    <string name="temp">Temperatura</string>
+    <string name="lum">Luminosidade</string>
+    <string name="ter">Terremoto</string>
+    <string name="inic">Inicia</string>
+</resources>
